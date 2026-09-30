@@ -82,3 +82,46 @@ The application uses a React frontend and a Node.js/Express backend. MongoDB is 
                             ┌────────────┐
                             │ Cloudinary │
                             └────────────┘
+
+## 📂 Project Structure
+
+```text
+Chat-application-project/
+│
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   └── package.json
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── .gitignore
+├── package.json
+└── README.md
+
+
+**2. ⚙️ Installation**
+
+Explain how someone can clone and install the project.
+
+**3. 🔐 Environment Variables**
+
+Document the required variable **names only**. Never put your actual secrets in README.
+
+**4. ▶️ Run Locally**
+
+Show:
+
+```bash
+cd backend
+npm start
+
+## 🚀 Live Demo
+
+https://chat-application-project-ktpt.onrender.com
+
