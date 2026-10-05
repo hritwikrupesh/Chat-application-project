@@ -4,7 +4,7 @@ A full-stack real-time chat application built using React, Node.js, Express, Mon
 
 ## 🚀 Live Demo
 
-🔗 https://chat-application-project-ktpt.onrender.com
+🔗 https://chat-application-project-1.onrender.com
 
 ## 📌 About The Project
 
